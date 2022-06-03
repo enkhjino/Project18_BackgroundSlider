@@ -13,7 +13,6 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-image: url('https://images.pexels.com/photos/1134166/pexels-photo-1134166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
   background-position: center center;
   background-size: cover;
   transition: 0.4s;
@@ -78,4 +77,6 @@ body::before {
 .right-arrow {
   right: calc(15vw - 65px);
 }
+
+
 
